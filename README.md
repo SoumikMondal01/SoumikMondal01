@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SoumikMondal01<br>👀 I’m interested in web developement and c++ coding<br>🌱 I’m currently learning Data structures and algorithm and full stack developement<br>💞️ I’m looking to collaborate on my projects<br>📫 you can reach me by mail- soumikmondal663@gmail.com
+👋 Hi, I’m Soumik Mondal<br>👀 I’m interested in web developement and c++ coding<br>🌱 I’m currently learning Data structures and algorithm and full stack developement<br>💞️ I’m looking to collaborate on my projects<br>📫 you can reach me by mail- soumikmondal663@gmail.com
 
 
 ## 🌐 Socials:
